@@ -1,1 +1,7 @@
-# Leishmania_Segmentation
+# Segmentation of human visceral leishmaniasis parasites in microscopy images from bone marrow parasitological examination
+
+Authors: Clésio Gonçalves, Armando Borges, Viviane Dias, Júlio Marques, Bruno Aguiar and Romuere Silva
+
+Abstract: Visceral Leishmaniasis (VL) is a neglected disease that affects between 50,000 and 90,000 new cases annually worldwide. In Brazil, VL causes about 3,500 cases/per year. This chronic disease can lead to death in more than 95% of untreated cases. Thus, it is necessary to study current and safe technologies for diagnosing, treating, and controlling VL. Specialized laboratories carry out the LV diagnosis, and this step has great automation power through automatic methods based on computer vision. The gold standard for detecting VL is the microscopy of material aspirated from the bone marrow to search for amastigotes. This work aims to assist in detecting amastigotes from microscopy images using deep learning techniques. The proposed methodology consists of segmenting the Leishmania parasites in the images, precisely indicating the location of the amastigotes in the image. In parasite segmentation, we obtained a Dice of 80.4%, IoU of 75.2%, Accuracy of 99.1%, Precision of 81.5%, Sensitivity of 72.2%, Specificity of 99.6%, and AUC of 86.5%. The results are promising and demonstrate that deep learning models trained with images of microscopy slides of biological material can precisely help the specialist detect VL in humans.
+
+Keywords: Computer Vision; Deep Learning; Segmentation; Visceral Leishmaniasis.
